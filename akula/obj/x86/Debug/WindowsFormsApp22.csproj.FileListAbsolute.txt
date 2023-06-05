@@ -1,0 +1,12 @@
+C:\Users\Sadiq\Desktop\akula\bin\x86\Debug\WindowsFormsAppemoji.exe.config
+C:\Users\Sadiq\Desktop\akula\bin\x86\Debug\WindowsFormsAppemoji.exe
+C:\Users\Sadiq\Desktop\akula\bin\x86\Debug\WindowsFormsAppemoji.pdb
+C:\Users\Sadiq\Desktop\akula\obj\x86\Debug\WindowsFormsApp22.csproj.AssemblyReference.cache
+C:\Users\Sadiq\Desktop\akula\obj\x86\Debug\WindowsFormsApp22.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sadiq\Desktop\akula\obj\x86\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Sadiq\Desktop\akula\obj\x86\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Sadiq\Desktop\akula\obj\x86\Debug\WindowsFormsAppemoji.Properties.Resources.resources
+C:\Users\Sadiq\Desktop\akula\obj\x86\Debug\WindowsFormsApp22.csproj.GenerateResource.cache
+C:\Users\Sadiq\Desktop\akula\obj\x86\Debug\WindowsFormsApp22.csproj.CoreCompileInputs.cache
+C:\Users\Sadiq\Desktop\akula\obj\x86\Debug\WindowsFormsAppemoji.exe
+C:\Users\Sadiq\Desktop\akula\obj\x86\Debug\WindowsFormsAppemoji.pdb
